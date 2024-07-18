@@ -9,7 +9,6 @@ Curious, passionate about technology and how things work in general. Always comm
 *   🌍  I'm based in Argentina
 *   🖥️  See my portfolio at [Github](http://github.com/Bertz96?tab=repositories)
 *   ✉️  You can contact me at [bernycervi96@gmail.com](mailto:bernycervi96@gmail.com)
-*   🧠  I'm learning React Router v6.4 with Data Layer API, TypeScript with React and ExpressJs, Docker
 
   ## Skills 
 <p align="left">

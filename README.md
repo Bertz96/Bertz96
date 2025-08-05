@@ -6,9 +6,6 @@ Fullstack Dev - MERN
 
 Curious, passionate about technology and how things work in general. Always committed to give my best to obtain the best result possible, with a critical eye so I can learn from my mistakes and successes. I've started with C, learned OOP with C# and switched to Js so I can learn about the MERN stack.
 
-*   🌍  I'm based in Argentina
-*   🖥️  See my portfolio at [Github](http://github.com/Bertz96?tab=repositories)
-*   ✉️  You can contact me at [bernycervi96@gmail.com](mailto:bernycervi96@gmail.com)
 
   ## Skills 
 <p align="left">

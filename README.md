@@ -59,5 +59,6 @@ Currently, I'm working on **ERP Customizations (Odoo)** and automating workflows
 <br/>
 
 <div align="center">
-  <small>Let's build secure and scalable software together!</small>
+  <small>Did I interested you? Let's build something together!</small>
+  <p>Contact me!</p>
 </div>

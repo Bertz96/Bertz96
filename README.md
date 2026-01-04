@@ -48,17 +48,17 @@ Currently, I'm working on **ERP Customizations (Odoo)** and automating workflows
 ### 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bertz96&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&hide=issues,contribs" height="165" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bertz96&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="languages graph" />
-  
-  <br/> <br/>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=Bertz96&theme=onestar&no-frame=true&column=3&margin-w=15&margin-h=15&row=1&rank=-C,-?&title=Experience,Commits,Repositories" />
+   <img src="https://github-profile-trophy.vercel.app/?username=Bertz96&theme=algolia&no-bg=true&column=3&margin-w=15&margin-h=15&row=1&rank=-C,-?&title=Experience,Commits,Repositories" />
 </div>
 
 <br/>
 
+
+### 🤝 Ready to collaborate?</h3>
+
+<p>I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.</p>
 <div align="center">
-  <small>Did I interested you? Let's build something together!</small>
-  <p>Contact me!</p>
+  <a href="mailto:cervinobernabe@gmail.com">
+    <img src="https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>

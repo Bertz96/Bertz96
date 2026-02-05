@@ -43,16 +43,6 @@ Currently, I'm working on **ERP Customizations (Odoo)** and automating workflows
   <img src="https://skillicons.dev/icons?i=linux,docker,aws,git,github,bash,jenkins,vscode" alt="Tools" />
 </div>
 
-<br/>
-
-### 🏆 GitHub Achievements
-
-<div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=Bertz96&theme=algolia&no-bg=true&column=3&margin-w=15&margin-h=15&row=1&rank=-C,-?&title=Experience,Commits,Repositories" />
-</div>
-
-<br/>
-
 
 ### 🤝 Ready to collaborate?</h3>
 
